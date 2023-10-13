@@ -11,7 +11,8 @@
 - How many customer segments can be created and their buying behaviors or other features?
 - What strategy can be implemented for each segment?
 
-- The dataset (sourced from Kaggle) includes all online transactions of a company in English, collected over a period of 1 year, consisting of **516,384 rows** and **8 fields**:
+# Dataset
+The dataset (sourced from Kaggle) includes all online transactions of a company in English, collected over a period of 1 year, consisting of **516,384 rows** and **8 fields**:
 - InvoiceNo: invoice number
 - StockCode: product code
 - Description: product name
